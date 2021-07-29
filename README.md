@@ -1,4 +1,2 @@
 # Styling-ToDo-List
-Todo list - set-state.
-Adding new todo list by using form handlesubmit function.
-Removing todolist by using Onclick method.
+Adding and removing todo list. For removing the list i had added delete button if you click the delete button the alert message will pop and list will be removed. 
