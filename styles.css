@@ -13,7 +13,7 @@ code {
 }
 
 .app {
-  background: #209cee;
+  background: lightblue;
   padding: 30px;
   height: 100vh;
  
@@ -33,7 +33,7 @@ code {
   padding: 3px 10px;
   font-size: 24px;
   margin-bottom: 6px;
-  border-radius: 3px;
+  border-radius: 10px;
   display:flex;
   align-items: center;
   justify-content: space-between;
